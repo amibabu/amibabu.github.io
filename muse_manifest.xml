@@ -1,0 +1,338 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="amibabu.tk" resolutions="1x,2x" timestamp="1505298146111">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="417164956" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4157651931" ref="index"/>
+    <file name="index.css" crc="262464411" ref="index"/>
+    <file name="nomq_index.css" crc="312795282" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="form_check.php" crc="4286608207" ref="index"/>
+    <file name="form_throttle.php" crc="313199896" ref="index"/>
+    <file name="form_process.php" crc="3855659497" ref="index"/>
+    <file name="form-u50584.php" crc="67427639" ref="index"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo109x55.png" crc="38371133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0878.jpg" crc="525647792" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab2-u10782-r-fr.jpg" crc="3912813861" ref="index"/>
+    <file name="ab2-u10782-r-fr_2x.jpg" crc="306296384" ref="index"/>
+    <file name="ab.jpg" crc="4172966739" seo="true" ref="index">
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+    </file>
+    <file name="ab_2x.jpg" crc="3768056691" seo="true" ref="index">
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+    </file>
+    <file name="_mg_0332.jpg" crc="3930564953" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1dd.jpg" crc="481158843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1dd_2x.jpg" crc="71253682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de.jpg" crc="4192370432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de_2x.jpg" crc="4009427779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df.jpg" crc="3920706426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df_2x.jpg" crc="412227138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e0.jpg" crc="463526389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e0_2x.jpg" crc="4167196950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e1.jpg" crc="3881693945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e1_2x.jpg" crc="3963393667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1dd-crop-u28491.jpg" crc="3838141320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1dd-crop-u28491_2x.jpg" crc="4290514731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de275x183.jpg" crc="3958338287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de275x183_2x.jpg" crc="4168795763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df275x183.jpg" crc="3789240168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df275x183_2x.jpg" crc="342324313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e0275x183.jpg" crc="134852593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e0275x183_2x.jpg" crc="21760856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e1275x183.jpg" crc="489610334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e1275x183_2x.jpg" crc="4235860840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="08-hardware-and-software-device-image.png" crc="4199107340" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08-hardware-and-software-device-image_2x.png" crc="4036850578" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone5s_cases_hero_mba_11.png" crc="3858360760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone5s_cases_hero_mba_11_2x.png" crc="3783726033" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4251695596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="38371133" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1dd240x360.jpg" crc="135040197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1dd240x360_2x.jpg" crc="3881829100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de480x320.jpg" crc="406823618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de480x320_2x.jpg" crc="493817154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df480x320.jpg" crc="142099850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df480x320_2x.jpg" crc="3910081734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e0480x320.jpg" crc="53561766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e0480x320_2x.jpg" crc="4040787094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e1480x320.jpg" crc="153271029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e1480x320_2x.jpg" crc="365707808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de68x45.jpg" crc="371295279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1de68x45_2x.jpg" crc="3912007563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df68x45.jpg" crc="415279282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1df68x45_2x.jpg" crc="228791357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e068x45.jpg" crc="341831848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e068x45_2x.jpg" crc="16393268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e168x45.jpg" crc="3867638336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fullsizeoutput_1e168x45_2x.jpg" crc="491381917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo95x48.png" crc="4253110673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo82x41.png" crc="477160873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo70x35.png" crc="526341874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo56x28.png" crc="118957518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo45x23.png" crc="4174566282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab2-u10782-r-fr2.jpg" crc="152210109" ref="index"/>
+    <file name="ab2-u10782-r-fr_2x2.jpg" crc="211209798" ref="index"/>
+    <file name="ab193x194.jpg" crc="3805679722" seo="true" ref="index">
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+    </file>
+    <file name="ab193x194_2x.jpg" crc="3923850774" seo="true" ref="index">
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+    </file>
+    <file name="logo30x15.png" crc="3824511185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab2-u10782-r-fr3.jpg" crc="4122189374" ref="index"/>
+    <file name="ab2-u10782-r-fr_2x3.jpg" crc="270199936" ref="index"/>
+    <file name="ab179x179.jpg" crc="429277302" seo="true" ref="index">
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+    </file>
+    <file name="ab179x179_2x.jpg" crc="410228690" seo="true" ref="index">
+      <caption webpage="index" alt=" PICTURE OF AMIBABU"/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4244189104" seo="true" mt="1505290668573" redirect="true"/>
+</manifest>
